@@ -1,15 +1,15 @@
 Discord
 
-En caso de no tener cuenta seleccionamos crear cuenta.
+1. En caso de no tener cuenta seleccionamos crear cuenta.
 
-Inicia sesión en la aplicación de Discord con tu cuenta creada.
+2. Inicia sesión en la aplicación de Discord con tu cuenta creada.
 
-Ahora, puedes unirte a un grupo existente o crear uno propio. 
+3. Ahora, puedes unirte a un grupo existente o crear uno propio. 
 
-Para unirse a un grupo, necesitarás una invitación del grupo.
+4. Para unirse a un grupo, necesitarás una invitación del grupo.
 
-Puedes pedir que te envíen una invitación.
+5. Puedes pedir que te envíen una invitación.
 
-Una vez que hayas recibido la invitación, cópiala y pégala en el campo de búsqueda de servidores. dentro de la aplicación de Discord y haz clic en "Unirse".
+6. Una vez que hayas recibido la invitación, cópiala y pégala en el campo de búsqueda de servidores. dentro de la aplicación de Discord y haz clic en "Unirse".
 
-Listo ya eres parte del grupo al que fuiste invitado.
+7. Listo ya eres parte del grupo al que fuiste invitado.
