@@ -1,8 +1,9 @@
-# Discord
+# Discord    <img src="https://i.ibb.co/ZWzdYML/discord-logo-1-1.png" alt="logo GitHub" width="70" height="70">
+ 
 
-1. En caso de no tener cuenta seleccionamos *crear cuenta*.
+1. En caso de no tener cuenta seleccionamos **crear cuenta**.
 
-2. Inicia sesión en la aplicación de *Discord* con tu cuenta creada.
+2. Inicia sesión en la aplicación de **Discord** con tu cuenta creada.
 
 3. Ahora, puedes unirte a un grupo existente o crear uno propio. 
 
