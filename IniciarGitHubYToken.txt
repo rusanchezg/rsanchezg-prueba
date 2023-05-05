@@ -23,7 +23,7 @@ Creación de Token Git Hub
 - Copia el token generado en un lugar seguro.
 - Ten en cuenta que este token solo se mostrará una vez, por lo que deberás copiarlo en ese momento.
 - Descarga la app en tu celular "Autenticador".
-- Regresa a Git Hub haz click en el icono de tu perfil y seleccionas "Settings"
+- Regresa a Git Hub haz click en el icono de tu perfil y seleccionas "Settings".
 - En el panel izquierdo, haz click en "Password and authentication".
 - Haz click en el botón verde "Enable two-factor authentication".
 - Se genera un codigo QR que escanearas con la aplicacion que descargaste en tu celular y el numero que se genera lo agregas en la parte inferior del codigo QR.
@@ -31,4 +31,4 @@ Creación de Token Git Hub
 - Haz click en "Done".
 - Una vez generado seleccionas "Sign out" ubicado en la esquina superior derecha de la pantalla para salir de Git Hub.
 - En la ventana para iniciar sesion en Git Hub seleccionas "Sing in".
-- por ultimo te pedira el codigo que se genero en la aplicacion de tu celular.
+- Por ultimo te pedira el codigo que se genero en la aplicacion de tu celular.
