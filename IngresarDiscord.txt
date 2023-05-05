@@ -10,6 +10,6 @@ Discord
 
 5. Puedes pedir que te envíen una invitación.
 
-6. Una vez que hayas recibido la invitación, cópiala y pégala en el campo de búsqueda de servidores. dentro de la aplicación de Discord y haz clic en "Unirse".
+6. Una vez que hayas recibido la invitación, cópiala y pégala en el campo de búsqueda de servidores. dentro de la aplicación de Discord y haz click en "Unirse".
 
 7. Listo ya eres parte del grupo al que fuiste invitado.
