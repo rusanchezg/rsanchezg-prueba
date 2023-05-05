@@ -1,4 +1,4 @@
-# Git Hub
+# Git Hub    <img src="https://i.ibb.co/9GN2rTv/github-6980894-960-720.png" alt="logo GitHub" width="70" height="60">  
 
 - Abre en tu navegador web https://github.com/.
 - Haz click en el botón verde `Sign up` ubicado en la esquina superior derecha de la pantalla.
@@ -8,7 +8,7 @@
 - Deberás verificar tu cuenta haciendo click en el enlace de confirmación que se te envió por correo electrónico.
 - Una vez que hayas verificado tu correo electrónico, podrás iniciar sesión en tu cuenta de GitHub.
 
-# Creación de Token Git Hub
+# Creación de Token Git Hub  <img src="https://i.ibb.co/Z2vnzY2/token.webp" alt="logo GitHub" width="90" height="60">                           
 
 
 - Haz click en tu perfil en la esquina superior derecha de la página.
