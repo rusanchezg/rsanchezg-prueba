@@ -1,4 +1,4 @@
-Resumen Git Hub
+Git Hub
 
 - Abre en tu navegador web https://github.com/.
 - Haz click en el botón verde "Sign up" ubicado en la esquina superior derecha de la pantalla.
